@@ -1,5 +1,9 @@
-studying technology.....
+insist
 <br/>
-language:C
+don't want to ......
+
+C/C++/PY/MAT/HT/JS/CSS
 <br/>
-want to learn more C.
+CONTINUE
+<br/>
+SEEKING FOR THE MEANING OF LIFE
