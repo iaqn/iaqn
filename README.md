@@ -10,7 +10,7 @@
 
 
 ### Recently used:
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaqn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### I will study forever, pursuing for my dream
 ##### Happy Life, Happy Learning
