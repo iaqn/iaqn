@@ -1,5 +1,6 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 27/04/2023
+#### Today 28/04/2023
+#### Today I successfully use openai.api for bot with ECS. Thx.
 ### 🌈Front-end Engineer
 ### 🌱Beginner
 ### 📗Reader
