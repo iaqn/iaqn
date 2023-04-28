@@ -1,6 +1,6 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 28/04/2023
-#### Today I successfully use openai.api for bot with ECS. Thx.
+#### Today 29/04/2023
+#### Today My WeChat is restricted. I'm so sad.
 ### 🌈Front-end Engineer
 ### 🌱Beginner
 ### 📗Reader
