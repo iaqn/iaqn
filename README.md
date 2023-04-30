@@ -1,6 +1,6 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 29/04/2023
-#### Today My WeChat is restricted. I'm so sad.
+#### Today 30/04/2023
+#### Today My WeChat is open.
 ### 🌈Front-end Engineer
 ### 🌱Beginner
 ### 📗Reader
