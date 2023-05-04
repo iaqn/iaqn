@@ -1,7 +1,6 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 03/05/2023
-#### Today My feeling a little. I hate stay up.
-#### Happy the break but I still study(ing!!!
+#### Today 04/05/2023
+#### Competition MCM is coming
 ### 🌈Front-end Engineer
 ### 🌱Beginner
 ### 📗Reader
