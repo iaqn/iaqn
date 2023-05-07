@@ -1,6 +1,6 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 06/05/2023
-#### Competition MCM is coming
+#### Today 07/05/2023
+#### I'm looking forward to tomorrow's result with a nervous heart. Hoping GOOD!
 ### 🌈Front-end Engineer
 ### 🌱Beginner
 ### 📗Reader
