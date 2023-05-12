@@ -1,5 +1,5 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 12/05/2023
+#### Today 13/05/2023
 #### Studying, I'm head for..... 
 #### The interesting paper -----> Generative Agents : Interactive Simulacra of Human Behavior
 #### Link:https://www.arxiv-vanity.com/papers/2304.03442/
@@ -30,5 +30,6 @@ Feel free to explore my repositories and don't hesitate to reach out if you have
 ### Recently used:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaqn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-**Let's connect!**
-......waited for......
+**Let's connect!**<br/>
+### mail:yifeizhu@zjut.edu.cn
+
