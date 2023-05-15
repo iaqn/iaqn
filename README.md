@@ -1,6 +1,6 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 13/05/2023
-#### Studying, I'm head for..... 
+#### Today 15/05/2023
+#### Studying, Completing the Java design.
 #### The interesting paper -----> Generative Agents : Interactive Simulacra of Human Behavior
 #### Link:https://www.arxiv-vanity.com/papers/2304.03442/
 ### 🌈Front-end Engineer
