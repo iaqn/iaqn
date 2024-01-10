@@ -1,6 +1,6 @@
 ## <p>🚀🚀🚀Hello! Welcome to my github~</p>
-#### Today 09/07/2023    
-#### completing the System.
+#### Today 01/10/2023    
+#### Status: Final exam
 #### The interesting paper -----> Generative Agents : Interactive Simulacra of Human Behavior
 #### Link:https://www.arxiv-vanity.com/papers/2304.03442/
 ### 🌈Front-end Engineer
